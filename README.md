@@ -1,6 +1,6 @@
 ![](https://oreo-image-bed-1310232028.cos.ap-shanghai.myqcloud.com/image/icon_128x128.png)
 
-# <center>Translator</center>
+# <center>Trayslator</center>
 
 基于React+Electron开发的Mac系统托盘翻译应用
 
