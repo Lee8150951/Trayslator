@@ -1,4 +1,4 @@
-<img src="https://oreo-image-bed-1310232028.cos.ap-shanghai.myqcloud.com/image/icon.png" style="zoom: 25%;" />
+![](https://oreo-image-bed-1310232028.cos.ap-shanghai.myqcloud.com/image/icon_128x128.png)
 
 # <center>Translator</center>
 
